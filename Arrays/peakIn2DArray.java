@@ -25,8 +25,8 @@ BRUTE FORCE:
 
 
 OPTIMAL SOLUTION:
-  Time Complexity = 
-  Space Complexity =
+  Time Complexity = O(nlogm)
+  Space Complexity = O(1)
 
   class Solution {
     public int[] findPeakGrid(int[][] mat) {
